@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.spe {
+    color: red;
+    font-size: xx-large;
+}
